@@ -1,0 +1,279 @@
+.note-tag {
+  display: inline-block;
+  background: #d9c939;
+  border-radius: 20px;
+  padding: 3px 5px;
+  font-size: .8em;
+  cursor: pointer
+}
+
+.note-tag.delete-note-tag:after {
+  font-weight: 700;
+  content: "\00d7";
+  padding-left: 5px;
+  padding-right: 5px
+}
+
+.note-tag.delete-note-tag:hover {
+  font-size: 15px
+}
+
+.note-tag.delete-note-tag:hover:after {
+  color: #1a6c4b;
+  font-size: 15px
+}
+
+.note-tags {
+  display: inline-block
+}
+
+.note-tags>.note-tag {
+  margin-right: 5px;
+  margin-bottom: 3px
+}
+
+.note {
+  margin: 30px;
+  border-radius: 3px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fdf4bb), to(#e8dc88));
+  background: linear-gradient(#fdf4bb, #e8dc88);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+  -webkit-transition: box-shadow .5s ease;
+  transition: box-shadow .5s ease;
+  word-wrap: break-word
+}
+
+.note:hover {
+  box-shadow: 0 5px 8px rgba(0, 0, 0, .15)
+}
+
+.note:focus {
+  box-shadow: 0 5px 12px rgba(0, 0, 0, .2);
+  outline: none
+}
+
+.note .note-header {
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #ece09f
+}
+
+.note .note-content {
+  overflow: hidden;
+  padding: 10px 10px 0;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical
+}
+
+.note .delete-note-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 20px;
+  margin: 10px;
+  cursor: pointer
+}
+
+.note .note-title {
+  font-weight: 700
+}
+
+.note .note-footer {
+  border-top: 1px solid #ece09f;
+  padding: 10px;
+  width: 100%;
+  max-height: 70px
+}
+
+.note .note-footer .note-tags {
+  padding: 0
+}
+
+.note .note-footer .edit-note-button {
+  color: #000;
+  position: absolute;
+  cursor: pointer;
+  right: 0;
+  bottom: 0
+}
+
+.notes-page {
+  position: relative
+}
+
+.notes-page .empty-view {
+  font-size: large;
+  text-align: center;
+  font-weight: 700
+}
+
+.notes-page .tag-filter {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #d9d9d9
+}
+
+.button-field {
+  line-height: 1.5715;
+  height: 32px;
+  padding: 4px 15px;
+  font-size: 14px;
+  border-radius: 2px;
+  color: rgba(0, 0, 0, .85);
+  background: #fff;
+  border: 1px solid #d9d9d9
+}
+
+.note-form {
+  margin-top: 20px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fdf4bb), to(#e8dc88));
+  background: linear-gradient(#fdf4bb, #e8dc88);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+  -webkit-transition: box-shadow .5s ease;
+  transition: box-shadow .5s ease;
+  word-wrap: break-word
+}
+
+.note-form>* {
+  margin-bottom: 10px
+}
+
+.note-form .note-form-action-buttons .button-field {
+  width: 200px;
+  margin-right: 10px
+}
+
+.text-field {
+  border: 1px solid #d9d9d9;
+  border-radius: 2px
+}
+
+.text-field,
+.textarea-field {
+  padding: 4px 11px;
+  color: rgba(0, 0, 0, .85);
+  font-size: 14px;
+  line-height: 1.5715;
+  background-color: #fff
+}
+
+.textarea-field {
+  background-image: none;
+  border: 1px solid #d9d9d9;
+  height: auto;
+  vertical-align: bottom
+}
+
+.select-field {
+  padding: 4px 11px;
+  font-size: 14px;
+  border: 1px solid #d9d9d9;
+  background: #fff
+}
+
+.manage-tags-page {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 3px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fdf4bb), to(#e8dc88));
+  background: linear-gradient(#fdf4bb, #e8dc88);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+  -webkit-transition: box-shadow .5s ease;
+  transition: box-shadow .5s ease;
+  word-wrap: break-word
+}
+
+.manage-tags-page>.row {
+  margin-bottom: 10px
+}
+
+.manage-existing-tag {
+  margin-bottom: 2px
+}
+
+.header-container {
+  background-color: #1a6c4b;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+  max-height: 40px
+}
+
+.header-container .header-logo {
+  font-size: 1.5em;
+  cursor: pointer;
+  font-weight: 700;
+  text-align: center;
+  color: #fff
+}
+
+.header-container .header-logo:hover {
+  text-decoration: none
+}
+
+.header-container .header-actions {
+  right: 0;
+  padding: 5px;
+  position: absolute
+}
+
+.floating-button {
+  font-family: sans-serif;
+  position: fixed;
+  bottom: 0;
+  right: 30px;
+  height: 60px;
+  width: 60px;
+  background: #fff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 60px;
+  color: #1a6c4b;
+  line-height: 60px;
+  font-size: 3em;
+  text-align: center;
+  cursor: pointer;
+  z-index: 1000
+}
+
+.floating-button:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .09), 0 6px 6px rgba(0, 0, 0, .13)
+}
+
+.manage-tags-button {
+  height: 25px;
+  line-height: 15px
+}
+
+.app {
+  background: #ecf0f1;
+  min-height: 100vh
+}
+
+.badge:hover{
+  cursor: pointer;
+}
+
+.notes{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media(max-width: 500px) {
+  .notes {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media(max-width: 768px) {
+  .notes{
+    grid-template-columns: 1fr 1fr;
+  }
+}

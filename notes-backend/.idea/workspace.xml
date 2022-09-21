@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e90c936-00af-40fb-a9f3-fa77c1e38e5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../java-talent-2020-fe-es6/src/exercises/08_class.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-talent-2020-fe-es6/src/exercises/08_class.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-talent-2020-fe-es6/src/quizzes/08_class.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-talent-2020-fe-es6/src/quizzes/08_class.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1i38xQnAfStrjqBM5bTkXPPMtQ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.talent.notes.api" />
+      <recent name="com.talent.noteswithoutdatabase.api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NotesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.talent.notes.NotesApplication" />
+      <module name="notes-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.talent.notes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NotesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e90c936-00af-40fb-a9f3-fa77c1e38e5d" name="Default Changelist" comment="" />
+      <created>1601125160785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601125160785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="105" key="#NotesApplication" timestamp="1602132831819">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="647" y="105" key="#NotesApplication/0.23.1440.829@0.23.1440.829" timestamp="1602132831819" />
+    <state x="647" y="105" key="#NotesApplication/0.23.1440.834@0.23.1440.834" timestamp="1601289211761" />
+    <state x="898" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1601453080822">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="898" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1601415580315" />
+    <state x="898" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1601453080822" />
+    <state x="898" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1601392775389" />
+    <state x="843" y="32" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601125544567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="843" y="32" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1601125544567" />
+    <state x="378" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601379066248">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="378" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.834@0.23.1440.834" timestamp="1601379066248" />
+    <state x="483" y="148" key="#xdebugger.evaluate" timestamp="1602077867067">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="483" y="148" key="#xdebugger.evaluate/0.23.1440.832@0.23.1440.832" timestamp="1602077867067" />
+    <state width="812" height="65" key="GridCell.Tab.0.bottom" timestamp="1602156651136">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602019196292" />
+    <state width="812" height="65" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1602156651136" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1602105989241" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1601989174390" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1602081134633" />
+    <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1602097105739" />
+    <state width="1214" height="185" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1601379052607" />
+    <state width="812" height="65" key="GridCell.Tab.0.center" timestamp="1602156651135">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="163" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602019196288" />
+    <state width="812" height="65" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1602156651135" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1602105989240" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1601989174389" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1602081134622" />
+    <state width="1398" height="163" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1602097105738" />
+    <state width="1214" height="185" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1601379052606" />
+    <state width="812" height="65" key="GridCell.Tab.0.left" timestamp="1602156651135">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="163" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602019196276" />
+    <state width="812" height="65" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1602156651135" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1602105989239" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1601989174388" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1602081134611" />
+    <state width="1398" height="163" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1602097105737" />
+    <state width="1214" height="185" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1601379052606" />
+    <state width="812" height="65" key="GridCell.Tab.0.right" timestamp="1602156651136">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="163" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602019196290" />
+    <state width="812" height="65" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1602156651136" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1602105989241" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1601989174390" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1602081134624" />
+    <state width="1398" height="163" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1602097105739" />
+    <state width="1214" height="185" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1601379052607" />
+    <state width="1398" height="168" key="GridCell.Tab.1.bottom" timestamp="1602105989244">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="391" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601657016219" />
+    <state width="1398" height="168" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1602105989244" />
+    <state width="1398" height="168" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1602081162880" />
+    <state width="1398" height="168" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1602095716832" />
+    <state width="1398" height="168" key="GridCell.Tab.1.center" timestamp="1602105989242">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="391" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601657016217" />
+    <state width="1398" height="168" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1602105989242" />
+    <state width="1398" height="168" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1602081162878" />
+    <state width="1398" height="168" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1602095716831" />
+    <state width="1398" height="168" key="GridCell.Tab.1.left" timestamp="1602105989242">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="391" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601657016215" />
+    <state width="1398" height="168" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1602105989242" />
+    <state width="1398" height="168" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1602081162877" />
+    <state width="1398" height="168" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1602095716830" />
+    <state width="1398" height="168" key="GridCell.Tab.1.right" timestamp="1602105989243">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="391" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601657016218" />
+    <state width="1398" height="168" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1602105989243" />
+    <state width="1398" height="168" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1602081162879" />
+    <state width="1398" height="168" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1602095716831" />
+    <state x="178" y="102" key="Maven.ArtifactSearchDialog" timestamp="1601289705610">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="178" y="102" key="Maven.ArtifactSearchDialog/0.23.1440.834@0.23.1440.834" timestamp="1601289705610" />
+    <state x="423" y="225" key="chooseDestDirectoryDialog" timestamp="1601379791641">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="423" y="225" key="chooseDestDirectoryDialog/0.23.1440.834@0.23.1440.834" timestamp="1601379791641" />
+    <state x="674" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1602156746392">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="674" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1602156746392" />
+    <state x="674" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1601557788997" />
+    <state x="194" y="123" key="new project wizard" timestamp="1601415944638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="194" y="123" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1601415944638" />
+    <state x="194" y="137" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1601240335609" />
+    <state x="385" y="199" key="run.anything.popup" timestamp="1602078066430">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="385" y="199" key="run.anything.popup/0.23.1440.832@0.23.1440.832" timestamp="1602078066430" />
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1602078904201">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1602078904201" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Notes$NotesApplication.ic" NAME="NotesApplication Coverage Results" MODIFIED="1601656616903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.talent.notes.*</FILTER>
+    </SUITE>
+  </component>
+</project>
